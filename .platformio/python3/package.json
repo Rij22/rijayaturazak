@@ -1,0 +1,17 @@
+{
+  "name": "python-portable",
+  "version": "1.30909.0",
+  "description": "Portable Python distribution",
+  "homepage": "https://www.python.org/",
+  "keywords": [
+    "python",
+    "language",
+    "interpreter"
+  ],
+  "license": "PSF-2.0",
+  "system": [
+  	"darwin_x86_64",
+  	"darwin_arm64"
+  ],
+  "repository": "https://github.com/python/cpython"
+}

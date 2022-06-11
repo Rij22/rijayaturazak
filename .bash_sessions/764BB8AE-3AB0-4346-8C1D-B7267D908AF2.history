@@ -1,0 +1,44 @@
+chsh -s /bin/bash
+chsh -s /bin/zsh
+-- version
+pwd
+ls
+ls -l
+ls -a
+mkdir General Projects
+ls -l
+ls 
+rmdir General Projects
+ls
+mkdir General_Projects
+ls
+/usr/bin/python3 "/Users/rijayaturazak/Desktop/Python Projects /PRO_1.py"
+/usr/bin/python3 "/Users/rijayaturazak/Desktop/Python Projects /PRO_1.py"
+chsh -s /bin/zsh
+/usr/bin/python3 "/Users/rijayaturazak/Desktop/Python Projects /PRO_1.py"
+aws --version
+chsh -s /bin/bash
+chsh -s /bin/bash
+-- version
+--version
+ls /usr/local/aws-cli
+sudo ln -s /usr/local/aws-cli/aws /usr/local/bin/aws
+which aws
+aws --version
+aws configure
+ls .aws
+cat .aws/credentials
+clear
+aws s3 ls
+ls rijaya84bucket
+cat rijaya84bucket
+ls -l /usr/bin/python
+-a python
+pwd
+cd
+cd --
+cd -
+type -a python
+chsh -s /bin/zsh
+ls
+python

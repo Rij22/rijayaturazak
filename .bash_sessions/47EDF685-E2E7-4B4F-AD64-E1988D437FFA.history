@@ -1,0 +1,71 @@
+chsh -s /bin/bash
+chsh -s /bin/zsh
+-- version
+pwd
+ls
+ls -l
+ls -a
+mkdir General Projects
+ls -l
+ls 
+rmdir General Projects
+ls
+mkdir General_Projects
+ls
+/usr/bin/python3 "/Users/rijayaturazak/Desktop/Python Projects /PRO_1.py"
+/usr/bin/python3 "/Users/rijayaturazak/Desktop/Python Projects /PRO_1.py"
+chsh -s /bin/zsh
+/usr/bin/python3 "/Users/rijayaturazak/Desktop/Python Projects /PRO_1.py"
+aws --version
+chsh -s /bin/bash
+chsh -s /bin/bash
+-- version
+--version
+ls /usr/local/aws-cli
+sudo ln -s /usr/local/aws-cli/aws /usr/local/bin/aws
+which aws
+aws --version
+aws configure
+ls .aws
+cat .aws/credentials
+clear
+aws s3 ls
+ls rijaya84bucket
+cat rijaya84bucket
+ls -l /usr/bin/python
+-a python
+pwd
+cd
+cd --
+cd -
+type -a python
+chsh -s /bin/zsh
+ls
+python
+chsh -s /bib/bash
+chsh -s /bin/bash
+-a python
+ls
+pwd
+ls -a
+ls -l /usr/bin/python
+docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+docker cp repo:/git/getting-started/ .cd getting-started
+docker build -t docker101tutorial .docker run -d -p 80:80 --name docker-tutorial docker101tutorial
+docker run -d -p 80:80 docker/getting-started
+pwd
+python --version
+useradd -G devs -d /home/gituser -m -s /bin/bash gituser
+# useradd -G devs -d /home/gituser -m -s /bin/bash gituser
+# passwd gituser
+# passwd Rij22
+pwd
+cd gituser
+pwd /home/gituser
+ls
+clear
+# useradd -G devs -d /home/Rij22 -m -s /bin/bash Rij22
+git -users
+git --users
+clear
+# passwd Rij22
